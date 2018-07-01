@@ -20,5 +20,9 @@
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "save": "^2.3.2"
+  },
+  "engines": {
+    "node": "0.6.12"
+  , "npm": "1.1.4"
   }
 }
